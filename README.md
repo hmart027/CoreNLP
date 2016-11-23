@@ -1,0 +1,2 @@
+# CoreNLP
+CoreNLP familiarization project
